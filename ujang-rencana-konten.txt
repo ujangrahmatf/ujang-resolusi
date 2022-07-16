@@ -1,0 +1,7 @@
+RENCANA KONTEN
+-JavaScript
+  *ES6
+  *Framework Javascript
+-PHP
+-Interiew
+-Vlog
